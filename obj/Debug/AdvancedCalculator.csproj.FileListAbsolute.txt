@@ -1,0 +1,11 @@
+C:\Users\Abdelhady Salah\Desktop\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe.config
+C:\Users\Abdelhady Salah\Desktop\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe
+C:\Users\Abdelhady Salah\Desktop\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
+C:\Users\Abdelhady Salah\Desktop\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.AssemblyReference.cache
+C:\Users\Abdelhady Salah\Desktop\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdelhady Salah\Desktop\AdvancedCalculator\obj\Debug\AdvancedCalculator.MainForm.resources
+C:\Users\Abdelhady Salah\Desktop\AdvancedCalculator\obj\Debug\AdvancedCalculator.Properties.Resources.resources
+C:\Users\Abdelhady Salah\Desktop\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.GenerateResource.cache
+C:\Users\Abdelhady Salah\Desktop\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Abdelhady Salah\Desktop\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
+C:\Users\Abdelhady Salah\Desktop\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb
